@@ -21,12 +21,12 @@ This phase involved creating additional tables, calculated columns, and measures
 1 Executive Dashboard and 2 Reports were created: Sales Analysis and a Customers Analysis.
 
 ## Repository Contents
-* Western Digital Sales DM - BI System Specifications Document.pdf: Detailed project specifications.
+* **Western Digital Sales DM - BI System Specifications Document.pdf**: Detailed project specifications.
 
-* ERD.JPG: Visual representation of the database schema, illustrating entity relationships.
+* **ERD.JPG**: Visual representation of the database schema, illustrating entity relationships.
 
-* S2T Mapping.xlsx: Document detailing the transformation and loading process of source system data into the data mart.
+* **S2T Mapping.xlsx**: Document detailing the transformation and loading process of source system data into the data mart.
 
-* Gantt.xlsx: Timeline representation showcasing project milestones and schedules.
+* **Gantt.xlsx**: Timeline representation showcasing project milestones and schedules.
 
-* Western Digital Sales DM Project.pbix: The Power BI file housing the developed reports and visualizations.
+* **Western Digital Sales DM Project.pbix**: The Power BI file housing the developed reports and visualizations.
