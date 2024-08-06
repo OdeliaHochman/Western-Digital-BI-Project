@@ -21,12 +21,12 @@ This phase involved creating additional tables, calculated columns, and measures
 1 Executive Dashboard and 2 Reports were created: Sales Analysis and a Customers Analysis.
 
 ## Repository Contents
-* **Western Digital Sales DM - BI System Specifications Document.pdf**: Detailed project specifications.
+* [Western Digital Sales DM - BI System Specifications Document.pdf](https://github.com/OdeliaHochman/Western-Digital-Sales-Data-Mart--BI-Project/blob/main/Western%20Digital%20Sales%20DM%20-%20BI%20System%20Specifications%20Document.pdf): Detailed project specifications.
 
-* **ERD.JPG**: Visual representation of the database schema, illustrating entity relationships.
+* [ERD.JPG](https://github.com/OdeliaHochman/Western-Digital-Sales-Data-Mart--BI-Project/blob/main/ERD.JPG): Visual representation of the database schema, illustrating entity relationships.
 
-* **S2T Mapping.xlsx**: Document detailing the transformation and loading process of source system data into the data mart.
+* [S2T Mapping.xlsx](https://github.com/OdeliaHochman/Western-Digital-Sales-Data-Mart--BI-Project/blob/main/S2T%20Mapping.xlsx): Document detailing the transformation and loading process of source system data into the data mart.
 
-* **Gantt.xlsx**: Timeline representation showcasing project milestones and schedules.
+* [Gantt.xlsx](https://github.com/OdeliaHochman/Western-Digital-Sales-Data-Mart--BI-Project/blob/main/Gantt.xlsx): Timeline representation showcasing project milestones and schedules.
 
-* **Western Digital Sales DM Project.pbix**: The Power BI file housing the developed reports and visualizations.
+* [Western Digital Sales DM Project.pbix](https://github.com/OdeliaHochman/Western-Digital-Sales-Data-Mart--BI-Project/blob/main/Western%20Digital%20Sales%20DM%20Project.pbix): The Power BI file housing the developed reports and visualizations.
